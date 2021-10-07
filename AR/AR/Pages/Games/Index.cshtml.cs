@@ -11,9 +11,9 @@ namespace AR.Pages_Games
 {
     public class IndexModel : PageModel
     {
-        private readonly ARGameContext _context;
+        private readonly ARGamesContext _context;
 
-        public IndexModel(ARGameContext context)
+        public IndexModel(ARGamesContext context)
         {
             _context = context;
         }

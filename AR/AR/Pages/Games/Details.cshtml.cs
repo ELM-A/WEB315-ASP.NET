@@ -11,9 +11,9 @@ namespace AR.Pages_Games
 {
     public class DetailsModel : PageModel
     {
-        private readonly ARGameContext _context;
+        private readonly ARGamesContext _context;
 
-        public DetailsModel(ARGameContext context)
+        public DetailsModel(ARGamesContext context)
         {
             _context = context;
         }

@@ -28,6 +28,9 @@ namespace AR
 
             services.AddDbContext<ARGameContext>(options =>
                     options.UseSqlite(Configuration.GetConnectionString("ARGameContext")));
+
+            services.AddDbContext<ARGamesContext>(options =>
+                    options.UseSqlite(Configuration.GetConnectionString("ARGamesContext")));
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.

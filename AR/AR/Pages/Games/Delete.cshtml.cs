@@ -11,9 +11,9 @@ namespace AR.Pages_Games
 {
     public class DeleteModel : PageModel
     {
-        private readonly ARGameContext _context;
+        private readonly ARGamesContext _context;
 
-        public DeleteModel(ARGameContext context)
+        public DeleteModel(ARGamesContext context)
         {
             _context = context;
         }

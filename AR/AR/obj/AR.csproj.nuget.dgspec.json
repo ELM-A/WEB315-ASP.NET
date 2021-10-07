@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Abdal\\OneDrive\\Desktop\\Fall 2021\\WEB315 - Introduction to ASP .NET\\AR\\AR\\AR.csproj": {}
+    "C:\\Users\\Abdal\\OneDrive\\Documents\\GitHub\\WEB315-ASP.NET\\AR\\AR\\AR.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Abdal\\OneDrive\\Desktop\\Fall 2021\\WEB315 - Introduction to ASP .NET\\AR\\AR\\AR.csproj": {
+    "C:\\Users\\Abdal\\OneDrive\\Documents\\GitHub\\WEB315-ASP.NET\\AR\\AR\\AR.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Abdal\\OneDrive\\Desktop\\Fall 2021\\WEB315 - Introduction to ASP .NET\\AR\\AR\\AR.csproj",
+        "projectUniqueName": "C:\\Users\\Abdal\\OneDrive\\Documents\\GitHub\\WEB315-ASP.NET\\AR\\AR\\AR.csproj",
         "projectName": "AR",
-        "projectPath": "C:\\Users\\Abdal\\OneDrive\\Desktop\\Fall 2021\\WEB315 - Introduction to ASP .NET\\AR\\AR\\AR.csproj",
+        "projectPath": "C:\\Users\\Abdal\\OneDrive\\Documents\\GitHub\\WEB315-ASP.NET\\AR\\AR\\AR.csproj",
         "packagesPath": "C:\\Users\\Abdal\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Abdal\\OneDrive\\Desktop\\Fall 2021\\WEB315 - Introduction to ASP .NET\\AR\\AR\\obj\\",
+        "outputPath": "C:\\Users\\Abdal\\OneDrive\\Documents\\GitHub\\WEB315-ASP.NET\\AR\\AR\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Abdal\\AppData\\Roaming\\NuGet\\NuGet.Config"

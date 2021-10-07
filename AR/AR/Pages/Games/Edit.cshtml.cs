@@ -12,9 +12,9 @@ namespace AR.Pages_Games
 {
     public class EditModel : PageModel
     {
-        private readonly ARGameContext _context;
+        private readonly ARGamesContext _context;
 
-        public EditModel(ARGameContext context)
+        public EditModel(ARGamesContext context)
         {
             _context = context;
         }
