@@ -2,6 +2,27 @@
 @model IndexModel
 @{
     ViewData["Title"] = "Home page";
+
+    var content = new [] {
+        new {
+            name = "FlyExperience",
+            type = "AR Game",
+            level = 5
+        },
+            new {
+            name = "Car Racing Experience",
+            type = "AR Game",
+            level = 5
+        }
+    };
+}
+
+@for(var i = 0; i < content.Length; i++)
+{
+    <div class=card>
+        <h3>@content[i].name</h3>
+        <p>@content[i].type</p>
+    </div>
 }
 
 <div class="text-center">
