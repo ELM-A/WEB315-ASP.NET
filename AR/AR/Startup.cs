@@ -28,12 +28,12 @@ namespace AR
         {
             if (Environment.IsDevelopment())
             {
-                services.AddDbContext<ARGameContext>(options =>
-                      options.UseSqlite(Configuration.GetConnectionString("ARGameContext")));  
+                services.AddDbContext<ARGamesContext>(options =>
+                      options.UseSqlite(Configuration.GetConnectionString("ARGamesContext")));  
             }
             else
             {
-                services.AddDbContext<ARGameContext>(options =>
+                services.AddDbContext<ARGamesContext>(options =>
                     options.UseSqlServer(Configuration.GetConnectionString("GameContext")));
             }
 
