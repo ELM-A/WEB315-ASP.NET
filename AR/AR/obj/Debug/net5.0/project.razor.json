@@ -1,5 +1,5 @@
 {
-  "FilePath": "c:\\Users\\Abdal\\OneDrive\\Desktop\\Fall 2021\\WEB315 - Introduction to ASP .NET\\AR\\AR\\AR.csproj",
+  "FilePath": "c:\\Users\\Abdal\\OneDrive\\Desktop\\Fall 2021\\WEB315 - Introduction to ASP .NET\\VS Code\\WEB315-ASP.NET\\AR\\AR\\AR.csproj",
   "Configuration": {
     "ConfigurationName": "MVC-3.0",
     "LanguageVersion": "5.0",
@@ -15619,63 +15619,63 @@
   "RootNamespace": "AR",
   "Documents": [
     {
-      "FilePath": "c:\\Users\\Abdal\\OneDrive\\Desktop\\Fall 2021\\WEB315 - Introduction to ASP .NET\\AR\\AR\\Pages\\Games\\Index.cshtml",
-      "TargetPath": "Pages\\Games\\Index.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\Abdal\\OneDrive\\Desktop\\Fall 2021\\WEB315 - Introduction to ASP .NET\\AR\\AR\\Pages\\_ViewImports.cshtml",
+      "FilePath": "c:\\Users\\Abdal\\OneDrive\\Desktop\\Fall 2021\\WEB315 - Introduction to ASP .NET\\VS Code\\WEB315-ASP.NET\\AR\\AR\\Pages\\_ViewImports.cshtml",
       "TargetPath": "Pages\\_ViewImports.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\Abdal\\OneDrive\\Desktop\\Fall 2021\\WEB315 - Introduction to ASP .NET\\AR\\AR\\Pages\\Error.cshtml",
-      "TargetPath": "Pages\\Error.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\Abdal\\OneDrive\\Desktop\\Fall 2021\\WEB315 - Introduction to ASP .NET\\AR\\AR\\Pages\\Games\\Delete.cshtml",
+      "FilePath": "c:\\Users\\Abdal\\OneDrive\\Desktop\\Fall 2021\\WEB315 - Introduction to ASP .NET\\VS Code\\WEB315-ASP.NET\\AR\\AR\\Pages\\Games\\Delete.cshtml",
       "TargetPath": "Pages\\Games\\Delete.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\Abdal\\OneDrive\\Desktop\\Fall 2021\\WEB315 - Introduction to ASP .NET\\AR\\AR\\Pages\\_ViewStart.cshtml",
-      "TargetPath": "Pages\\_ViewStart.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\Abdal\\OneDrive\\Desktop\\Fall 2021\\WEB315 - Introduction to ASP .NET\\AR\\AR\\Pages\\Shared\\_Layout.cshtml",
-      "TargetPath": "Pages\\Shared\\_Layout.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\Abdal\\OneDrive\\Desktop\\Fall 2021\\WEB315 - Introduction to ASP .NET\\AR\\AR\\Pages\\Games\\Edit.cshtml",
-      "TargetPath": "Pages\\Games\\Edit.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\Abdal\\OneDrive\\Desktop\\Fall 2021\\WEB315 - Introduction to ASP .NET\\AR\\AR\\Pages\\Privacy.cshtml",
-      "TargetPath": "Pages\\Privacy.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\Abdal\\OneDrive\\Desktop\\Fall 2021\\WEB315 - Introduction to ASP .NET\\AR\\AR\\Pages\\Index.cshtml",
+      "FilePath": "c:\\Users\\Abdal\\OneDrive\\Desktop\\Fall 2021\\WEB315 - Introduction to ASP .NET\\VS Code\\WEB315-ASP.NET\\AR\\AR\\Pages\\Index.cshtml",
       "TargetPath": "Pages\\Index.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\Abdal\\OneDrive\\Desktop\\Fall 2021\\WEB315 - Introduction to ASP .NET\\AR\\AR\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
+      "FilePath": "c:\\Users\\Abdal\\OneDrive\\Desktop\\Fall 2021\\WEB315 - Introduction to ASP .NET\\VS Code\\WEB315-ASP.NET\\AR\\AR\\Pages\\Games\\Edit.cshtml",
+      "TargetPath": "Pages\\Games\\Edit.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Abdal\\OneDrive\\Desktop\\Fall 2021\\WEB315 - Introduction to ASP .NET\\VS Code\\WEB315-ASP.NET\\AR\\AR\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
       "TargetPath": "Pages\\Shared\\_ValidationScriptsPartial.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\Abdal\\OneDrive\\Desktop\\Fall 2021\\WEB315 - Introduction to ASP .NET\\AR\\AR\\Pages\\Games\\Details.cshtml",
+      "FilePath": "c:\\Users\\Abdal\\OneDrive\\Desktop\\Fall 2021\\WEB315 - Introduction to ASP .NET\\VS Code\\WEB315-ASP.NET\\AR\\AR\\Pages\\Error.cshtml",
+      "TargetPath": "Pages\\Error.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Abdal\\OneDrive\\Desktop\\Fall 2021\\WEB315 - Introduction to ASP .NET\\VS Code\\WEB315-ASP.NET\\AR\\AR\\Pages\\Privacy.cshtml",
+      "TargetPath": "Pages\\Privacy.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Abdal\\OneDrive\\Desktop\\Fall 2021\\WEB315 - Introduction to ASP .NET\\VS Code\\WEB315-ASP.NET\\AR\\AR\\Pages\\Games\\Index.cshtml",
+      "TargetPath": "Pages\\Games\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Abdal\\OneDrive\\Desktop\\Fall 2021\\WEB315 - Introduction to ASP .NET\\VS Code\\WEB315-ASP.NET\\AR\\AR\\Pages\\Games\\Details.cshtml",
       "TargetPath": "Pages\\Games\\Details.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\Abdal\\OneDrive\\Desktop\\Fall 2021\\WEB315 - Introduction to ASP .NET\\AR\\AR\\Pages\\Games\\Create.cshtml",
+      "FilePath": "c:\\Users\\Abdal\\OneDrive\\Desktop\\Fall 2021\\WEB315 - Introduction to ASP .NET\\VS Code\\WEB315-ASP.NET\\AR\\AR\\Pages\\Shared\\_Layout.cshtml",
+      "TargetPath": "Pages\\Shared\\_Layout.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Abdal\\OneDrive\\Desktop\\Fall 2021\\WEB315 - Introduction to ASP .NET\\VS Code\\WEB315-ASP.NET\\AR\\AR\\Pages\\Games\\Create.cshtml",
       "TargetPath": "Pages\\Games\\Create.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Abdal\\OneDrive\\Desktop\\Fall 2021\\WEB315 - Introduction to ASP .NET\\VS Code\\WEB315-ASP.NET\\AR\\AR\\Pages\\_ViewStart.cshtml",
+      "TargetPath": "Pages\\_ViewStart.cshtml",
       "FileKind": "mvc"
     }
   ],

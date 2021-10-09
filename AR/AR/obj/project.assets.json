@@ -7439,11 +7439,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Abdal\\OneDrive\\Desktop\\Fall 2021\\WEB315 - Introduction to ASP .NET\\AR\\AR\\AR.csproj",
+      "projectUniqueName": "C:\\Users\\Abdal\\OneDrive\\Desktop\\Fall 2021\\WEB315 - Introduction to ASP .NET\\VS Code\\WEB315-ASP.NET\\AR\\AR\\AR.csproj",
       "projectName": "AR",
-      "projectPath": "C:\\Users\\Abdal\\OneDrive\\Desktop\\Fall 2021\\WEB315 - Introduction to ASP .NET\\AR\\AR\\AR.csproj",
+      "projectPath": "C:\\Users\\Abdal\\OneDrive\\Desktop\\Fall 2021\\WEB315 - Introduction to ASP .NET\\VS Code\\WEB315-ASP.NET\\AR\\AR\\AR.csproj",
       "packagesPath": "C:\\Users\\Abdal\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Abdal\\OneDrive\\Desktop\\Fall 2021\\WEB315 - Introduction to ASP .NET\\AR\\AR\\obj\\",
+      "outputPath": "C:\\Users\\Abdal\\OneDrive\\Desktop\\Fall 2021\\WEB315 - Introduction to ASP .NET\\VS Code\\WEB315-ASP.NET\\AR\\AR\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Abdal\\AppData\\Roaming\\NuGet\\NuGet.Config"
